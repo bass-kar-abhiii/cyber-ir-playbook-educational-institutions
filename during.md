@@ -1,14 +1,17 @@
-# Incident Response Plan for {{COMPANY_NAME}}
+# Incident Response Plan for National Security Training Institute
 
-Author: {{AUTHOR_NAME}}, {{AUTHOR_EMAIL}}
+Author: Abhishek Parmar, parmarabhishek921@gmail.com
 
-Revision {{REVISION_NUMBER}}, Released {{RELEASE_DATE}}
+Revision 1.0, Released 28 June 2026
 
-This incident response plan is based on the concise, directive, specific, flexible, and free plan available on Counteractive Security's [Github](https://github.com/counteractive/incident-response-plan-template) and discussed at [www.counteractive.net](https://www.counteractive.net/posts/an-ir-plan-you-will-use/)
+This incident response plan is adapted from the Counteractive Security 
+IR framework, customized for educational and government-affiliated 
+institutions in India. It incorporates CERT-In coordination protocols, 
+MHA liaison procedures, and university governance structures.
 
+It was last reviewed on 28 June 2026. It was last tested on 28 June 2026 
+via tabletop exercise (Operation Locked Campus).
 It was last reviewed on {{REVIEW_DATE}}. It was last tested on {{TEST_DATE}}.
-
-`TODO: Customize this plan template for your organization using instructions at https://github.com/counteractive/incident-response-plan-template.  For incident response services, or help customizing, implementing, or testing your plan, contact us at contact@counteractive.net or at (888) 925-5765.`
 
 # Assess
 
